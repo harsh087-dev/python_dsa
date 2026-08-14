@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsh087-dev/python_dsa/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/harsh087-dev/python_dsa/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/harsh087-dev/python_dsa/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh087-dev/python_dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/harsh087-dev/python_dsa/tree/master/1470-shuffle-the-array) |
@@ -21,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsh087-dev/python_dsa/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/harsh087-dev/python_dsa/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/harsh087-dev/python_dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harsh087-dev/python_dsa/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh087-dev/python_dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/harsh087-dev/python_dsa/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/harsh087-dev/python_dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harsh087-dev/python_dsa/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh087-dev/python_dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -37,5 +40,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/harsh087-dev/python_dsa/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/harsh087-dev/python_dsa/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
