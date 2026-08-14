@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsh087-dev/python_dsa/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/harsh087-dev/python_dsa/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh087-dev/python_dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/harsh087-dev/python_dsa/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/harsh087-dev/python_dsa/tree/master/1480-running-sum-of-1d-array) |
@@ -20,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsh087-dev/python_dsa/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/harsh087-dev/python_dsa/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh087-dev/python_dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/harsh087-dev/python_dsa/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh087-dev/python_dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
