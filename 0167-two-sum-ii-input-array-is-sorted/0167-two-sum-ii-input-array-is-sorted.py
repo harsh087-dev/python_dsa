@@ -9,4 +9,5 @@ class Solution:
             if sumofdig>target:
                 right-=1
             else:
-                left+=1               
+                left+=1
+        return []        
