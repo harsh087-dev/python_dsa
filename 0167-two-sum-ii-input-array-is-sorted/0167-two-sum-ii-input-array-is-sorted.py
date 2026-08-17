@@ -11,3 +11,5 @@ class Solution:
             else:
                 left+=1
         return []        
+#time complex-O(n)
+#space-O(1)
