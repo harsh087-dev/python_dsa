@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0335-self-crossing](https://github.com/harsh087-dev/python_dsa/tree/master/0335-self-crossing) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/harsh087-dev/python_dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Array
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsh087-dev/python_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/harsh087-dev/python_dsa/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/harsh087-dev/python_dsa/tree/master/0283-move-zeroes) |
+| [0335-self-crossing](https://github.com/harsh087-dev/python_dsa/tree/master/0335-self-crossing) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh087-dev/python_dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/harsh087-dev/python_dsa/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/harsh087-dev/python_dsa/tree/master/1480-running-sum-of-1d-array) |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsh087-dev/python_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/harsh087-dev/python_dsa/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
