@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harsh087-dev/python_dsa/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/harsh087-dev/python_dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh087-dev/python_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harsh087-dev/python_dsa/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/harsh087-dev/python_dsa/tree/master/0049-group-anagrams) |
@@ -60,9 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harsh087-dev/python_dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsh087-dev/python_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Geometry
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/harsh087-dev/python_dsa/tree/master/0335-self-crossing) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harsh087-dev/python_dsa/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
