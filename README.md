@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harsh087-dev/python_dsa/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/harsh087-dev/python_dsa/tree/master/0283-move-zeroes) |
 | [0335-self-crossing](https://github.com/harsh087-dev/python_dsa/tree/master/0335-self-crossing) |
+| [0560-subarray-sum-equals-k](https://github.com/harsh087-dev/python_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh087-dev/python_dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/harsh087-dev/python_dsa/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/harsh087-dev/python_dsa/tree/master/1480-running-sum-of-1d-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/harsh087-dev/python_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/harsh087-dev/python_dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harsh087-dev/python_dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harsh087-dev/python_dsa/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/harsh087-dev/python_dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/harsh087-dev/python_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/harsh087-dev/python_dsa/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh087-dev/python_dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
