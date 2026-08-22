@@ -103,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/harsh087-dev/python_dsa/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harsh087-dev/python_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/harsh087-dev/python_dsa/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
